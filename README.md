@@ -1,2 +1,0 @@
-# .github
-Autsec Home Page
